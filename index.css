@@ -11,7 +11,8 @@ body {
   background-repeat:no-repeat;
   background-position: top;
   background-attachment: fixed;
-  text-align:  center; 
+  text-align:  left; 
+    margin-left: 20px;
 }
 
 .column {
